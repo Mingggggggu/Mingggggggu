@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20MinGyu~&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20MinGyu~%20GitHub&fontSize=70)
 
 ## 안녕하세요, 소통과 협업을 중시하는 개발자 이민규입니다! 👋
 - 💻 복잡한 비즈니스 로직을 자동화하고 사용자 편의를 개선하는 것에 즐거움을 느낍니다.
