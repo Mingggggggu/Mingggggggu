@@ -1,4 +1,3 @@
-# 상단 헤더 이미지 (색상 등 커스텀 가능)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20MinGyu~&fontSize=70)
 
 ## 안녕하세요, 소통과 협업을 중시하는 개발자 이민규입니다! 👋
